@@ -22,5 +22,5 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 
-![](https://AdaChicas3-images.githubusercontent.com/97712894/152232872-09832b33-2024-4ddb-9ccf-6c161fe43649.mp4)
+![GIF](video2.gif)
 
