@@ -1,3 +1,5 @@
+**Project Detail** 
+
 Project: WITCHFINDER GENERAL - DATA VISUALISATION INTERNSHIP
 
 Project Director(s): Ewan McAndrew
