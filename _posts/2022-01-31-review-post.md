@@ -1,8 +1,8 @@
-#Project: WITCHFINDER GENERAL - DATA VISUALISATION INTERNSHIP
+Project: WITCHFINDER GENERAL - DATA VISUALISATION INTERNSHIP
 
-##Project Director(s): Ewan McAndrew
+Project Director(s): Ewan McAndrew
 
-###Project URL: https://witches.is.ed.ac.uk/
+Project URL: https://witches.is.ed.ac.uk/
 
 
 
