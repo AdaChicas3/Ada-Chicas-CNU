@@ -22,5 +22,5 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 
-![GIF](video2.gif)
+![GIF - Animated gif ](images/video2.mp4.gif)
 
