@@ -21,4 +21,4 @@ Project URL: https://witches.is.ed.ac.uk/
   Taking the first look at the project, you notice very small issues with the project. Although, the website is very interactive and filled with maps and small details about the witches who were accused the website lacks any explanation. Each tent on the map provides place of death, gender, occupation, etc., 
 
 
-![First Gif](https://media.giphy.com/media/video2.mp4/giphy.gif)
+![First Gif](https://media.giphy.com/gif/video2.mp4/giphy.gif)
