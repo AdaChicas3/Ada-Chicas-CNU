@@ -18,7 +18,7 @@ Project URL: https://witches.is.ed.ac.uk/
 **MAPPING** 
 
 
-![GIF - Animated gif](<iframe src="https://giphy.com/embed/uL8whUDHRHdMcnj23F" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uL8whUDHRHdMcnj23F">via GIPHY</a></p>)
+![GIF - Animated gif](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/uL8whUDHRHdMcnj23F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uL8whUDHRHdMcnj23F">via GIPHY</a></p>)
 
 
   Taking a first look at the project, you notice very small issues. Although, the website is very interactive and filled with maps and small details about the witches, it appears to be far too much. Each tent on the map provides place of death, gender, occupation, etc., but we recieve a lack of context to go with the interactions of each map on the site. The names on the map are linked to a '_more info_' option where the link takes you to another site connected to The University of Edinburhg resulting in a bigger text format of details provided on the map. This is an excellent way to demonstrate the following information on the maps but adding another tagged link to more on the investigaions could lead to a bigger interest and following for the project. 
