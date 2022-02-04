@@ -10,11 +10,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 ## **SUMMARY**
-  
-  
-
-
-
+<br />
   According to the project managers Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in [Great Britain] with more information.
 
 
