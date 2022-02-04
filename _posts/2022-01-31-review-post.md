@@ -15,7 +15,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 
-  According to the project managers “The Data and Visualisation internship project at the University of Edinburgh had as its core aim to geographically locate and visualize the different locations recorded within the Survey of Scottish Witchcraft Database.” (Scott) Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in [Great Britain] with more information.
+  According to the project managers Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in [Great Britain] with more information.
 
 
 ## **MAPPING** 
@@ -47,12 +47,11 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 
- The toolbar on the website is very easy to navigate, having them titled what the maps would be about, for example, residences with timeline, residence within each parish, detention locations, trial locations, etc., with that being said a tool it lacks is a search bar option. Having a search tool on the website could potentially help the audience search for certain information they are looking for. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site; This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
+ The toolbar on the website is very easy to navigate, having them titled what the maps would be about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., with that being said a tool it lacks is a search bar option. Having a search tool on the website could potentially help the audience search for certain information they are looking for. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site; This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
   
   
   
   
-
 
 
 
