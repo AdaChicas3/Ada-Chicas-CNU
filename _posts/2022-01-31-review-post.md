@@ -17,7 +17,7 @@ Project URL: https://witches.is.ed.ac.uk/
 ## **MAPPING** 
 
 
-https://media.giphy.com/media/uL8whUDHRHdMcnj23F/giphy.gif
+![Gif](https://media.giphy.com/media/uL8whUDHRHdMcnj23F/giphy.gif)
 
 
 
