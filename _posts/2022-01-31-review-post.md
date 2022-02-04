@@ -38,9 +38,9 @@ Project URL: https://witches.is.ed.ac.uk/
  ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 <br />
 
-The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. 
+The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. 
 
 
 
-## **Summary** 
+## **Conclusion** 
 
