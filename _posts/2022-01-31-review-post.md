@@ -32,6 +32,9 @@ Project URL: https://witches.is.ed.ac.uk/
  An addition to a search bar tool, a higlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
 <br />
   
+  
+ ## **MOBILE SITE**
+ 
  ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 <br />
 
