@@ -33,7 +33,14 @@ According to the project managers “The Data and Visualisation internship proje
 
   
  ![Toolbar](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/toolbar.png)
-
+ 
+  The toolbar on the website is very easy to navigate, having them titled what the maps would be about for example, _residences with timeline, residence within each parish, dentention locations, trial locations, etc.,_ with that being said a tool it lacks is a search bar option. Having a search tool on the website could potentially helped the audience search for certain information they are looking for. The search bar tool is a helpful and faster way to get certain information or landing on a specific somewhere on the site; This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addiion to the tool bar would also allow the site to add more information that the site lacks as mentioned previously. 
+  
+  
+  
+  
+  
+  
 
 
 
