@@ -40,3 +40,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. 
 
+
+
+## **Summary** 
+
