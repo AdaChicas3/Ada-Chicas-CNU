@@ -23,6 +23,11 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
   Taking a first look at the project, you notice very small issues. Although, the website is very interactive and filled with maps and small details about the witches, it appears to be far too much. Each tent on the map provides place of death, gender, occupation, etc., but we recieve a lack of context to go with the interactions of each map on the site. The names on the map are linked to a '_more info_' option where the link takes you to another site connected to The University of Edinburhg resulting in a bigger text format of details provided on the map. This is an excellent way to demonstrate the following information on the maps but adding another tagged link to more on the investigaions could lead to a bigger interest and following for the project. 
+  
+  
+  
+  
+ ![Toolbar](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/toolbar.png)
 
 
 
