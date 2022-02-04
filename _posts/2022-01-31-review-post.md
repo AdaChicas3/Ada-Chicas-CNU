@@ -40,7 +40,7 @@ According to the project managers “The Data and Visualisation internship proje
   
   
   
-  
+ ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 
 
 
