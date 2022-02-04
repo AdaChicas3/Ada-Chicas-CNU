@@ -23,7 +23,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/uL8whUDHRHdMcnj23F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uL8whUDHRHdMcnj23F">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/uL8whUDHRHdMcnj23F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 
