@@ -10,7 +10,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 
 ## **SUMMARY**
-<br />
+
   According to the project managers Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in [Great Britain] with more information.
 
 
@@ -24,6 +24,7 @@ Project URL: https://witches.is.ed.ac.uk/
 <br />
 
  ![Toolbar](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/toolbar.png)
+
 <br />
  
  The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
@@ -34,13 +35,10 @@ Project URL: https://witches.is.ed.ac.uk/
   
 
 
-![Icon](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/icon.png)
-
-
-
-
-
 Although the maps on the website are useful to an extent, the section "_extra visualization_" is exactly what its titled, _extra_. The maps under this section cause confusion. There seems to be no purpose to these bubble charts nor are there any directions as to what they might be useful for. The information and direction to the bubble chart are actually next to the title but can easily be missed. Having this key information under one of the charts would be helpful in case you do miss the information icon.   
+<br />
+
+![maps](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/maps.png)
   
   
  ## **MOBILE SITE**
@@ -53,4 +51,4 @@ The mobile site worked with no issues, the site was easy to navigate and look th
 
 
 ## **Conclusion** 
-
+To conclude, the website _WitchFinder_ has many features that are interactive with its viewers. The research done by the team was to cover locations and more of accused witches.  
