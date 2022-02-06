@@ -38,7 +38,7 @@ Project URL: https://witches.is.ed.ac.uk/
 Although the maps on the website are useful to an extent, the section "_extra visualization_" is exactly what its titled, _extra_. The maps under this section cause confusion. There seems to be no purpose to these bubble charts nor are there any directions as to what they might be useful for. The information and direction to the bubble chart are actually next to the title but can easily be missed. Having this key information under one of the charts would be helpful in case you do miss the information icon.   
 <br />
 
-![maps](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/maps.png)
+![Maps](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/maps.png)
   
   
  ## **MOBILE SITE**
