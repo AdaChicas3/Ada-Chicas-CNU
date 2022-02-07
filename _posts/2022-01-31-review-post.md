@@ -20,7 +20,7 @@ Project URL: https://witches.is.ed.ac.uk/
 ![Gif](https://media.giphy.com/media/uL8whUDHRHdMcnj23F/giphy.gif)
 <br />
   
-  Taking a first look at the project, you notice some issues. The website is very interactive and filled with maps and details about the witches. Each icon on the map provides a place of death, gender, occupation, etc., but there is a lack of context to go with each map on the site. The names on the map are linked to a 'more info' option where the link takes you to another site connected to The University of Edinburgh resulting in a bigger text format of details provided on the map. This is an excellent way to demonstrate the following information on the maps but adding another tagged link on the investigation could lead to a bigger interest and following for the project.
+  Taking a first look at the project, you notice some issues. The website is very interactive and filled with maps and details about the witches. Each icon on the map provides a place of death, gender, occupation, etc., but there is a lack of context to go with each map on the site. The names on the map are linked to a '_more info_' option where the link takes you to another site connected to The University of Edinburgh resulting in a bigger text format of details provided on the map. This is an excellent way to demonstrate the following information on the maps but adding another tagged link on the investigation could lead to a bigger interest and following for the project.
 <br />
 
  ![Toolbar](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/toolbar.png)
