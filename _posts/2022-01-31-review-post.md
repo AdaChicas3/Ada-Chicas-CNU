@@ -27,7 +27,9 @@ Project URL: https://witches.is.ed.ac.uk/
 
 <br />
  
-  The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
+  The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. 
+  
+  The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
  
  
   An addition to a search bar tool, a higlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
