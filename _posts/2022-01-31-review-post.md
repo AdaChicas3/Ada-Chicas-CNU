@@ -11,7 +11,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 ## **SUMMARY**
 
-  According to the project managers Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in [Great Britain] with more information.
+  According to the project managers Witchfinder General is a Swedish digital humanities project that covers locations of residents accused of being witches. With over 3000 different accusations, project manager Ewan takes us on an educational journey with locations and records of everyone who was accused of being a witch in Great Britain with interesting facts and information.
 
 
 ## **MAPPING** 
@@ -29,10 +29,10 @@ Project URL: https://witches.is.ed.ac.uk/
  
   The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. 
   
-  The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
+  The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information they are looking for. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
  
  
-  An addition to a search bar tool, a higlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
+  An addition to a search bar tool, a highlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
 
 
 
@@ -41,7 +41,7 @@ Project URL: https://witches.is.ed.ac.uk/
 
 ![Maps](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/maps.png)
  
-  Additionally to the _Extra Visualizations_, another feature added to their website was the "_People Associated with the Wich Trials: Residence_". Here the maps intentions are to show civilians who were apart of the witch trials mainly focusing on accusers, judges, or investigators. A problem encountered with this portion of the maps is it does not load completely. You're left toggling around a square box with no words or pins that direct where any of the information is. 
+  Additionally to the _Extra Visualizations_, another feature added to their website was the "_People Associated with the Witch Trials: Residence_". Here the maps intentions are to show civilians who were apart of the witch trials mainly focusing on accusers, judges, or investigators. A problem encountered with this portion of the maps is it does not load completely. You're left toggling around a square box with no words or pins that direct where any of the information is. 
   
  A suggestion for this issue would be working on the map zooming and labels. This would allow the viewers to be able to look through the map and having labels would cause less confusion on what part of the world you are in. Adding some already known addresses would help the search for locations as this information may not be wildy known to many.  
 
@@ -52,7 +52,7 @@ Project URL: https://witches.is.ed.ac.uk/
  ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 <br />
 
-  The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. In the event someone wanted to know what the labels said, they would be forced to zoom into the map which cause the map to become pixilated. 
+  The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. In the event someone wanted to know what the labels said, they would be forced to zoom into the map which cause the map to become pixilated. 
 
 
 
