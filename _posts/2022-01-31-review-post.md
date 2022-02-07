@@ -43,7 +43,7 @@ Project URL: https://witches.is.ed.ac.uk/
  
   Additionally to the _Extra Visualizations_, another feature added to their website was the "_People Associated with the Wich Trials: Residence_". Here the maps intentions are to show civilians who were apart of the witch trials mainly focusing on accusers, judges, or investigators. A problem encountered with this portion of the maps is it does not load completely. You're left toggling around a square box with no words or pins that direct where any of the information is. 
   
- A suggestion for this issue would be removing the map and adding he following information in a word format. This would allow the viewers to take a break from the interacive maps and bubble charts and getting a moment to read through and retain some information over civilians who took part of the witch trials.  
+ A suggestion for this issue would be working on the map zooming and labels. This would allow the viewers to be able to look through the map and having labels would cause less confusion on what part of the world you are in. Adding some already known addresses would help the search for locations as this information may not be wildy known to many.  
 
  
   
@@ -52,7 +52,7 @@ Project URL: https://witches.is.ed.ac.uk/
  ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 <br />
 
-  The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. 
+  The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. In the event someone wanted to know what the labels said, they would be forced to zoom into the map which cause the map to become pixilated. 
 
 
 
