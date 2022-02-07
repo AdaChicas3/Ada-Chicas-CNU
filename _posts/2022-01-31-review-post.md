@@ -27,28 +27,32 @@ Project URL: https://witches.is.ed.ac.uk/
 
 <br />
  
- The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
+  The toolbar on the website is very easy to navigate, having them titled what the map is about, for example, _residences with timeline, residence within each parish, detention locations, trial locations,_ etc., allows the viewers to pick what specific maps they would like to view. With that being said a tool it lacks is a search bar option. The search bar tool is a helpful and faster way to get certain information or land on a specific somewhere on the site. This would not only help the site manage what information is most popular with the public but it would also allow the viewer to find specific information. This addition to the toolbar would also allow the site to add more information that the site lacks as mentioned previously.
  
  
- An addition to a search bar tool, a higlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
-<br />
-  
+  An addition to a search bar tool, a higlighting tool would be highly effective. When roaming over the map icons having them shaded a darker color would let the user know which icons have already been viewed. It would be easier on users for organizations purposes and having a recently viewed folder could lead to a easier nagivating link.  
 
 
-Although the maps on the website are useful to an extent, the section "_extra visualization_" is exactly what its titled, _extra_. The maps under this section cause confusion. There seems to be no purpose to these bubble charts nor are there any directions as to what they might be useful for. The information and direction to the bubble chart are actually next to the title but can easily be missed. Having this key information under one of the charts would be helpful in case you do miss the information icon.   
+
+  Although the maps on the website are useful to an extent, the section "_extra visualization_" is exactly what its titled, _extra_. The maps under this section cause confusion. There seems to be no purpose to these bubble charts nor are there any directions as to what they might be useful for. The information and direction to the bubble chart are actually next to the title but can easily be missed. Having this key information under one of the charts would be helpful in case you do miss the information icon.   
 <br />
 
 ![Maps](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/maps.png)
+ 
+  Additionally to the _Extra Visualizations_, another feature added to their website was the "_People Associated with the Wich Trials: Residence_". Here the maps intentions are to show civilians who were apart of the witch trials mainly focusing on accusers, judges, or investigators. A problem encountered with this portion of the maps is it does not load completely. You're left toggling around a square box with no words or pins that direct where any of the information is. 
   
+ A suggestion for this issue would be removing the map and adding he following information in a word format. This would allow the viewers to take a break from the interacive maps and bubble charts and getting a moment to read through and retain some information over civilians who took part of the witch trials.  
+
+ 
   
  ## **MOBILE SITE**
  
  ![Mobile](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/mobile.jpeg)
 <br />
 
-The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. 
+  The mobile site worked with no issues, the site was easy to navigate and look through. Zooming in and out is managable as well as clicking on the icons showing the information given on the website on the site. The only minor flaw was the map quality, the words on the map appeared slightly blurred and high pixeled. 
 
 
 
 ## **Conclusion** 
-To conclude, the website _WitchFinder_ has many features that are interactive with its viewers. The research done by the team was to cover locations and more of accused witches.  
+  To conclude, the website _WitchFinder_ has many features that are interactive with its viewers. The research done by the team was to cover locations and more of accused witches. Having a interacive website filled wih maps and minimal detail can help those who enjoy and learn best visually.   
