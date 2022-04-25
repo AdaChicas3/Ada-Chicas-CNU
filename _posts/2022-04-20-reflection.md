@@ -14,4 +14,4 @@ Although it wasn't always that easy, I found it time consumming during the very 
   
 I like to think that having Github and learning the mark up language really helped me for that activity. It would be satisfying to watch my mark up language turn into images, bold a word, or simply adding a couple hashtags for a main header. 
 
-![Tweet screenshot](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/update(1).xml
+![Mark Up](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/
