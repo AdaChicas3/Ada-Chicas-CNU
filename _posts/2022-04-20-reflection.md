@@ -6,4 +6,4 @@
   
   In this article the author discussed how stressful writing a first draft can be. As someone who is constantly writing paper after paper, I never related to something so much. 
 
-![Tweet](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/tweet.png)
+![Tweet screenshot](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/tweet.png)
