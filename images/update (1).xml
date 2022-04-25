@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>“Dracula's Guest”</title>
+            <author>Bram Stoker</author>
+            <editor>Your Name</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The 1914 edition we're working with can be found here: http://www.bramstoker.org/stories/03guest.html</p>
+         </sourceDesc>
+         
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1"/>
+         <p>WHEN we started for our drive the sun was shining brightly on Munich, and the air was full of the joyousness of early summer. Just as we were about to depart, Herr Dulbrück (the maître d’ hôtel of the Quatre Saisons,<note>The Quatre Saisons is a real hotel that opened in 1858.</note> where I was staying) came down, bareheaded, to the carriage and, after wishing me a pleasant drive, said to the coachman, still holding his hand on the handle of the carriage door:</p>
+    <p><q>Remember you are back by nightfall. The sky looks bright but there is a shiver in the north wind that says there may be a sudden storm. But I am sure you will not be late.</q> Here he smiled, and added,<q>for you know what night it is.</q></p>
+     <p>Jahann answered with an emphatic,<q>Ja, mein Herr,</q><note>Meaning,<q>Yes, my Lord.</q></note> and, touching his hat, drove off quickly. When we had cleared the town, I said, after signalling to him to stop:</p>
+     <p><q>Tell me, Johann, what is to-night?</q></p>
+     </body>
+  </text>
+</TEI>
