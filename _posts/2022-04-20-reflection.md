@@ -12,6 +12,10 @@ In this article the author discussed how stressful writing a first draft can be.
 
 ![Tweet screenshot](https://AdaChicas3.github.io/Ada-Chicas-CNU/images/tweet.png)
 
+The reason I enjoy this reading the most is because of how much I can relate to writing a terrible first rough draft. During this course, I felt that many of my first drafts were unreadable but having the peerviews really helped me conquer the embarrassment of others reading my first drafts. 
+
+The peer reviews were also a major help throughout the entire course, having my peers read and comment on my first drafts helped me guide my papers and blog posts for the better. I did enjoy the change of pace at the end of having different people from our usual read our drafts and comment on them. I liked having a fresh pair of eyes look into my work and comment on what I could do better in my work.  
+
 Although reading and relating to many of the articles we read was a lot of fun, my absolute favorite thing we did in this course was coding. I always assumed coding for websites like these or using markup language was the hardest thing on the planet. Once I really got the hang of HTML it became the easiest project we had to do in the course. 
 
 It wasn't always that easy, I found it time consuming during the very beginning. Almost frustratingly, Sometimes my markups wouldn't show up and all I was missing was a simple colon or a chevron in the middle of a sentence. Once I really got the hang of the language I found myself zooming through the assignment. 
@@ -22,9 +26,9 @@ I like to think that having Github and learning the markup language really helpe
 
 I really enjoyed using the website and learning the language. I wish we had more time using Github rather than leaving it behind after the TEI project. Initially, I assumed that we would be working with Github all semester but to my surprise we had the pleasure to work on creating a grant. Making this grant possible was difficult, I had gotten the experience of working through the process of brainstorming an idea, writing the draft and proposing it to win funds.
 
+As a writer and as a student, I have grown. Compared to how I was the first week during this course, I feel a lot more confident with the subject. I find it easier to write about the digital humanities aspect, especially after struggling for so long to grasp the concept.
 
-
- 
+ It is bittersweet having the course come to an end but knowing that I will be able to take everything Deanna Stover was able to teach me and apply it in other courses makes up for completing the course. 
  
 
 
