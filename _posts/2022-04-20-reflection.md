@@ -14,7 +14,7 @@ In this article the author discussed how stressful writing a first draft can be.
 
 The reason I enjoy this reading the most is because of how much I can relate to writing a terrible first rough draft. During this course, I felt that many of my first drafts were unreadable but having the peer reviews really helped me conquer the embarrassment of others reading my first drafts. 
 
-The peer reviews were also a major help throughout the entire course, having my peers read and comment on my first drafts helped me guide my papers and blog posts for the better. I did enjoy the change of pace at the end of having different people from our usual read our drafts and comment on them. I liked having a fresh pair of eyes look into my work and comment on what I could do better in my work.  
+The peer reviews were also a major help throughout the entire course, having my peers read and comment on my first drafts helped me guide my papers and blog posts for the better. I did enjoy the change of pace at the end of having different people from our usual read our drafts and comment on them. I liked having a fresh pair of eyes look into my work and comment on what I could do better.  
 
 Although reading and relating to many of the articles we read was a lot of fun, my absolute favorite thing we did in this course was coding. I always assumed coding for websites like these or using markup language was the hardest thing on the planet. Once I really got the hang of XML it became the easiest project we had to do in the course. 
 
