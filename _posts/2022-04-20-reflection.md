@@ -28,7 +28,7 @@ I really enjoyed using the website and learning the language. I wish we had more
 
 As a writer and as a student, I have grown. Compared to how I was the first week during this course, I feel a lot more confident with the subject. I find it easier to write about the digital humanities aspect, especially after struggling for so long to grasp the concept.
 
- It is bittersweet having the course come to an end but knowing that I will be able to take everything Deanna Stover was able to teach me and apply it in other courses makes up for completing the course. 
+ It is bittersweet moment having the course come to an end but knowing that I will be able to take everything Deanna Stover was able to teach me and apply it in other courses makes up for completing the course. 
  
 
 
